@@ -32,5 +32,5 @@ Audio: HTML5 <audio> element with custom controls
 
 🚀 Getting Started
 1. Clone the repository:
-git clone https://github.com/Naivedya-Baranwal/weather-music-app.git
+git clone https://dharmendra-star.github.io/Weather-music-app/
 cd weather-music-app
