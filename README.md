@@ -11,12 +11,22 @@ WeatherTunes is a web app that lets you discover music based on your local weath
 📱 Responsive UI – Optimized for both desktop and mobile screens
 ⚡ Fast and Simple – No login or signup needed — just search, vibe, and enjoy!
 🛠️ Tech Stack
+
+
+
+
 Framework: React.js (with Next.js)
 Styling: Material UI
+
 APIs Used:
 🌍 Weather: OpenWeatherMap API
 🎧 Music: iTunes Search API
 Audio: HTML5 <audio> element with custom controls
+
+
+
+
+
 🔗 Live Demo
 👉 Try the App Live
 
